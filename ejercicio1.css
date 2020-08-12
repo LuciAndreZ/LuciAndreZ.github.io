@@ -1,3 +1,8 @@
-.button_personalizado{
-    color: #7892a6;
+.boton_personalizado{
+    background-color: #7892a6;
+    color: white;
+    
+}
+.fondo{
+    background-color: #fcf8e5;
 }
