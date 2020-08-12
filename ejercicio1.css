@@ -1,8 +1,9 @@
 .boton_personalizado{
     background-color: #7892a6;
     color: white;
+    font-family: sans-serif;
+    padding: 6px;
+    padding-left: 10px;
     
-}
-.fondo{
-    background-color: #fcf8e5;
+    
 }
