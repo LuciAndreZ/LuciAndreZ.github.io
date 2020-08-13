@@ -1,0 +1,13 @@
+.letras{
+    font-family: Arial;
+}
+.titulos{
+    font-size: 18px;
+}
+.textos{
+    font-size: 12px;
+}
+.fondonegro{
+    background-color: black;
+    color: white;
+}
